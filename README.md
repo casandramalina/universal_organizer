@@ -1,14 +1,9 @@
 
 # Universal Organizer
 
-#### Video Demo: http://www.youtube.com/watch?v=VTw6lx5-SqA
 #### Description:
 
-CS50 2024 Final Project by Alexander Maykl Mychlo Dolinin
-
-## CS50 Final Project Video
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/VTw6lx5-SqA/0.jpg)](http://www.youtube.com/watch?v=VTw6lx5-SqA "Video Title")
+CS50 2024 Final Project by Casandra Malina Mychlo Dolinin
 
 ## Runs on:
 
@@ -17,8 +12,7 @@ CS50 2024 Final Project by Alexander Maykl Mychlo Dolinin
 
 ## Author
 
-- [@alexmmych](https://github.com/alexmmych)
-
+- [casandramalina]([url](https://github.com/casandramalina/))
 
 ## FAQ
 
@@ -34,7 +28,6 @@ I used Flutter not necessarily because it can also build for mobile because I ca
 
 ## Screenshots
 
-![App Screenshot](resources/screenshot.png)
 ![App Screenshot](resources/screenshot_01.png)
 
 
